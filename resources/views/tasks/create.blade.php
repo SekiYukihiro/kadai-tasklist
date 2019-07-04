@@ -2,6 +2,9 @@
 
 @section('content')
 
+
+
+
 <h1>タスク新規作成ページ</h1>
 
     <div class="row">
